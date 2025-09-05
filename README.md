@@ -22,7 +22,7 @@
 
 ### Mari
 ![Mari](https://github.com/user-attachments/assets/4709ba3d-2d4f-44b8-9390-1d1661975382) 
-- 🎵 [Maniac - Michael Sembello](https://www.youtube.com/watch?v=IdneKLhsWOQ)
+- 🎵 [Maniac - Michael Sembello](https://youtu.be/6GCNUeTFSbA?si=qXqn9OAl_BheOgzP)
 
 ### Marian
 ![Marian animada](ruta-del-gif-marian.gif) 🎵 [Confident - Demi Lovato](https://www.youtube.com/watch?v=cwLRQn61oUY)
