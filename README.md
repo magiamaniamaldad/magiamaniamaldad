@@ -21,7 +21,8 @@
 > 👷🏻‍♀️Sección under construction👷🏻‍♀️
 
 ### Mari
-![Mari animada](ruta-del-gif-mari.gif) 🎵 [Maniac - Michael Sembello](https://www.youtube.com/watch?v=IdneKLhsWOQ)
+![Mari](https://github.com/user-attachments/assets/4709ba3d-2d4f-44b8-9390-1d1661975382) 
+- 🎵 [Maniac - Michael Sembello](https://www.youtube.com/watch?v=IdneKLhsWOQ)
 
 ### Marian
 ![Marian animada](ruta-del-gif-marian.gif) 🎵 [Confident - Demi Lovato](https://www.youtube.com/watch?v=cwLRQn61oUY)
@@ -36,3 +37,5 @@
 ## 📫 Encontrame en:
 
 [🐦 Twitter / X](https://x.com/MagiaMniaMaldad) | [🎨 ArtStation / Behance](https://www.behance.net/maniammaldad)
+
+
