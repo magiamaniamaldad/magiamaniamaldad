@@ -35,14 +35,20 @@ Currently expanding my technical QA toolkit through automation, API testing and 
 
 ## 📌 Featured Projects
 
-🚧 Currently building my QA engineering portfolio.
+### 🧪 [QA Automation Portfolio](https://github.com/magiamaniamaldad/qa-automation-portfolio)
 
-Upcoming projects:
+Automated QA testing project built with **Playwright + TypeScript**.
 
-- 🧪 **QA Automation Portfolio** — Playwright + TypeScript
-- 🔌 **API Testing Suite** — Postman + automated API validation
+- 🎭 UI & authentication testing
+- 🔌 API testing & response validation
+- 🧩 Page Object Model (POM)
+- ⚙️ Continuous Integration with GitHub Actions
+- 🟢 Automated test execution on every push
+
+### 🔜 Coming Next
+
+- 📥 **API Testing Suite** — Postman + automated API validation
 - 🗃️ **Backend Data Validation** — Python + SQL
-
 ---
 
 ## 🎬 Creative Side
