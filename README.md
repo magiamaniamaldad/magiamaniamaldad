@@ -4,7 +4,7 @@
 
 ## ¡Hi,I'm Vic!🏄🏻‍♀🙋🏻‍♀️👋
 
-###**Victoria Antelo — QA • Data Validation • AI Evaluation**
+### Victoria Antelo — QA • Data Validation • AI Evaluation
 
 📍 Buenos Aires, Argentina 🇦🇷 🧉
 🌎 English C1 • Spanish Native
